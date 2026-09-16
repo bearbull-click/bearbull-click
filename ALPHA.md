@@ -6,6 +6,14 @@ A paper-crown CEO. A GPU obsessive. A founder still answering the pager. Someone
 
 GitHub is the alpha's home: creatures, build notes, proof and participation. [X carries the art and daily prompts](https://x.com/bearbullsclick). [Explore all 10,000 creatures](https://bearbull-click.github.io/) or [try the mock-USDG testnet mint](https://bearbull-click.github.io/mint.html). Paid pricing remains undecided; no paid launch has been announced.
 
+## September 16 update: the herd has an address
+
+[**bearbulls.click**](https://bearbulls.click/) is live over HTTPS, with four creatures and seven FAQs. The landing links to the full explorer; GitHub stays the main alpha channel. No wallet connection or payment is required to browse the landing.
+
+The current collectible rehearsal remains on Robinhood **testnet**, using mock USDG. Paid pricing and the launch date are still undecided. ETH, USDG and eligible tokenized-stock checkout are being researched; none is a live real-money payment option for BEARBULLS today.
+
+The next technical question is whether a small fraction of a stock can buy a creature without making the buyer navigate several separate apps. We will publish a working route and its limits before calling it available. This is a proposed experiment, not a partner or token announcement.
+
 ## Built on September 16
 
 - Four original portraits and a [nine-post introduction](https://x.com/bearbullsclick/status/2100291717509329016) are public.
