@@ -1,7 +1,5 @@
 # BEARBULLS
 
-**Your trading personality, alive.**
-
 Original pixel creatures caught between bear and bull. Awkward faces, unreasonable conviction, and small objects that explain far too much about their owners. A GPU brick. A founder pager. A paper CEO crown. An oversized escape key.
 
 Meet four of them:
