@@ -22,10 +22,16 @@ We’re inviting the first participants to make **Bear × Bull** cards by hand: 
 
 There is no pairing app to download. This starts with a reply and a small creative exchange. Solo moods are welcome too.
 
+## Follow the alpha
+
+[Read the build log and seven-day experiments](ALPHA.md). GitHub is the home for dated proof, open questions and participation; [X carries the art and prompts](https://x.com/bearbullsclick).
+
+[Leave a specimen ID + mood](https://github.com/bearbull-click/bearbull-click/issues/new?template=market-mood.md), with an optional reason. No wallet or mint is needed. Solo choices are welcome; shared cards start as a manual experiment.
+
 ## The creatures live onchain
 
 The v0.25 prototype contains 100 curated creatures on **Robinhood testnet**. Each has a fixed identity and artwork, with metadata, a PNG portrait and animation stored onchain. Its first purchase used **100 mock USDG**, a test asset with no monetary value.
 
 [Read the dated verification record](PROOF.md) for the contracts, provenance and mint receipt. A real-money launch has **not been announced**. BEARBULLS is an independent art project, with no Robinhood affiliation.
 
-The planned home is `bearbull.click`; the domain and live site are not yet confirmed. For now, [@bearbullsclick](https://x.com/bearbullsclick) is where to say hello, choose a creature and bring your mood.
+[Explore all 10,000 previews](https://bearbull-click.github.io/) or [try the 100-creature mock-USDG testnet mint](https://bearbull-click.github.io/mint.html). Paid pricing is undecided. GitHub is the main alpha channel; [@bearbullsclick](https://x.com/bearbullsclick) carries the art and prompts.
