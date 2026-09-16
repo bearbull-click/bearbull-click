@@ -2,8 +2,9 @@
 
 Original pixel creatures caught between bear and bull. Awkward faces, unreasonable conviction, and small objects that explain far too much about their owners. A GPU brick. A founder pager. A paper CEO crown. An oversized escape key.
 
-Meet four of them:
+[bearbulls.click](https://bearbulls.click/) is our live home: four creatures, the FAQ and a link into the explorer. No wallet is needed to look around.
 
+Meet four of them:
 | #0029 · Nettle Softhoof | #0032 · Sludge Cloudhoof |
 | :---: | :---: |
 | <img src="0029.png" width="256" alt="Nettle Softhoof, a pixel creature wearing a paper CEO crown"> | <img src="0032.png" width="256" alt="Sludge Cloudhoof, a pixel creature with a GPU brick"> |
