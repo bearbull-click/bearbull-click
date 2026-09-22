@@ -4,6 +4,14 @@ Original pixel creatures caught between bear and bull. Awkward faces, unreasonab
 
 [bearbulls.click](https://bearbulls.click/) is our live home: four creatures, the FAQ and a link into the explorer. No wallet is needed to look around.
 
+## AFTER HOURS is live
+
+**The market closed. Nobody left.**
+
+[Play the free office mystery](https://bearbulls.click/after-hours/): question four creatures, follow the missing bell and choose your ending. No wallet or signup. The story uses our existing frozen portraits and runs separately from the NFT contracts.
+
+[Leave feedback or report a broken clue](https://github.com/bearbull-click/bearbull-click/issues/3). Please mark spoilers.
+
 Meet four of them:
 | #0029 · Nettle Softhoof | #0032 · Sludge Cloudhoof |
 | :---: | :---: |
