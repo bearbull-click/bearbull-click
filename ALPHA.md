@@ -1,10 +1,26 @@
 # BEARBULLS alpha
 
-September 16, 2026. Original pixel creatures caught between bear and bull.
+Updated September 22, 2026. Original pixel creatures caught between bear and bull.
 
 A paper-crown CEO. A GPU obsessive. A founder still answering the pager. Someone who brought an oversized ESC key. [Meet the four public specimens](README.md): **#0029, #0032, #0083 and #0240**.
 
-GitHub is the alpha's home: creatures, build notes, proof and participation. [X carries the art and daily prompts](https://x.com/bearbullsclick). [Explore all 10,000 creatures](https://bearbull-click.github.io/) or [try the mock-USDG testnet mint](https://bearbull-click.github.io/mint.html). Paid pricing remains undecided; no paid launch has been announced.
+GitHub is the alpha's home: creatures, build notes, proof and participation. [X carries the art and daily prompts](https://x.com/bearbullsclick). [Explore all 10,000 creatures](https://bearbull-click.github.io/) or [try the mock-USDG testnet mint](https://bearbull-click.github.io/mint.html). The planned primary mint is $10; no paid mint is open and no launch date has been announced.
+
+## September 22: smaller mint, phased access, open contract review
+
+The new candidate targets **$10 per creature**, a first batch of **100**, and a lifetime ceiling of **10,000**. It requests **4.2% secondary royalties** through ERC-2981 to the fixed treasury. Marketplaces decide whether to honor them; this does not add a fee to the $10 primary mint.
+
+- **First 24 hours:** 50 early mints for a planned verified list of 10,000 recently active Robinhood NFT-holder wallets, one per wallet.
+- **After 24 hours:** public access to the reserved 50 plus leftovers, one primary mint per wallet.
+- **After 48 hours:** the top 1,000 ranked wallets may reach three primary mints total, if inventory remains.
+
+Eligibility is not a reservation. Transfers do not reset primary-mint counts. The real snapshot and ranking are still unbuilt; no wallet should assume eligibility yet.
+
+[**Review the contract and reproducible test package**](review/README.md). [Report a reproducible finding or propose a concrete builder test](https://github.com/bearbull-click/bearbull-click/issues/1). The candidate is testnet-only, undeployed and unaudited. Internal verification passed 78 contract tests and 68 JavaScript tests. The review archive contains 43 contract tests, nine configuration tests, pinned dependencies and real onchain artwork fixtures. No reviewer payment or bounty is offered.
+
+Mainnet preparation is underway. Before opening, we still need a verified eligibility snapshot, canonical USDG integration and dollar-pricing policy, contract review, a new wallet-flow rehearsal, deployment verification and a published start time. ETH and stock-token payments remain deferred. There is no collection coin, pool or reward program.
+
+The existing v0.25 rehearsal still uses **100 mock USDG** and is unchanged. Passing our own tests is not an independent audit. Earlier pricing notes below describe the September 16 state and are superseded by this update.
 
 ## September 16 update: the herd has an address
 

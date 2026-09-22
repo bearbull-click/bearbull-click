@@ -35,4 +35,12 @@ The v0.25 prototype contains 100 curated creatures on **Robinhood testnet**. Eac
 
 [Read the dated verification record](PROOF.md) for the contracts, provenance and mint receipt. A real-money launch has **not been announced**. BEARBULLS is an independent art project, with no Robinhood affiliation.
 
-[Explore all 10,000 previews](https://bearbull-click.github.io/) or [try the 100-creature mock-USDG testnet mint](https://bearbull-click.github.io/mint.html). Paid pricing is undecided. GitHub is the main alpha channel; [@bearbullsclick](https://x.com/bearbullsclick) carries the art and prompts.
+[Explore all 10,000 previews](https://bearbull-click.github.io/) or [try the 100-creature mock-USDG testnet mint](https://bearbull-click.github.io/mint.html). The new candidate targets $10 per creature; its USDG route and launch date remain unverified. GitHub is the main alpha channel; [@bearbullsclick](https://x.com/bearbullsclick) carries the art and prompts.
+
+## Contract review is open
+
+[Join the voluntary review and builder participation thread](https://github.com/bearbull-click/bearbull-click/issues/1).
+
+The [new phased-mint candidate and test package](review/README.md) are available for free voluntary review: $10 mint target, 50 early / 50 public pilot allocation, a three-total-mint top-tier allowance after 48 hours, and 4.2% ERC-2981 royalties to the fixed treasury. Marketplace royalty payment is not guaranteed.
+
+This candidate is **undeployed and unaudited**. The actual eligibility snapshot is still unbuilt. [Read the September 22 alpha update](ALPHA.md) for timing rules, test evidence and what remains before mainnet. No paid mint is open.
